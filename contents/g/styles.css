@@ -1,0 +1,13 @@
+li{
+    border: solid 1px black;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    display:block;
+}
